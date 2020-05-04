@@ -1,3 +1,19 @@
+.Store-selector{
+  border:3px #000 solid;
+  margin: 0 auto;
+  width: 30%;
+  text-align: center;
+  background-color: #fff;
+  padding: 20px 5px;
+}
+.Store-selector input{
+  width: 80%;
+  font-size: 30px;
+  text-align: center;
+}
+.Store-selector button{
+  width: 80%;
+}
 .order-enter {
   -webkit-transform: translateX(-120%);
           transform: translateX(-120%);
